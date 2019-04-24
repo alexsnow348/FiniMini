@@ -3,4 +3,4 @@
 ![FiniMini](docs/images/FiniMini.png)
 
 
-![FiniMini_1](docs/images/FiniMini_1.png)
+![FiniMini_1](docs/images/FiniMini1.png)
