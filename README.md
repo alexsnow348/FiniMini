@@ -1,4 +1,4 @@
-### **FiniMini**: The new way to becoming your own financial advisor
+#### _FiniMini_: The new way to becoming your own financial advisor
 
 ![FiniMini](docs/images/FiniMini.png)
 
