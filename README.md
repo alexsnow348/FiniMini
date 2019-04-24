@@ -1,6 +1,6 @@
-#### _FiniMini_: The new way to becoming your own financial advisor
 
-![FiniMini](docs/images/FiniMini.png)
+![FiniMini](docs/images/FiniMini_1.png)
 
+![FiniMini_1](docs/images/FiniMini_2.png)
 
-![FiniMini_1](docs/images/FiniMini1.png)
+![FiniMini_1](docs/images/FiniMini_3.png)
